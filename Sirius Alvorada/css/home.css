@@ -1,0 +1,47 @@
+body{
+    background-color: blue;
+    background-image: linear-gradient(to left,rgba(35, 38, 243, 0.644) 25%, rgb(251, 255, 0), rgb(248, 246, 246));}
+    
+    .p{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 25px;
+        text-align: left;
+        color:rgb(0, 0, 0)}
+       .button3{
+            background: green;
+            color:aliceblue;
+            border-style: outset;
+            height: 35px;
+            width: 10%;
+            font: bold 20px arial,sans-serif;
+            text-align: center;
+            display: inline-block;}
+        .button1{
+            background: rgba(22, 228, 235, 0.589);
+            color:aliceblue;
+            border-style: outset;
+            height: 35px;
+            width: 10%;
+            font: bold 20px arial,sans-serif;
+            text-align: center;
+            display: inline-block;}
+        .button2{
+                background: rgb(245, 241, 24);
+                color:aliceblue;
+                border-style: outset;
+                height: 35px;
+                width: 10%;
+                font: bold 20px arial,sans-serif;
+                text-align: center;
+                display: inline-block;}
+            .titulo{
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 35px;
+                text-align: center;
+                color: white;
+                text-shadow: 5px 1px 1px #000}
+            .Subtitulo{
+                font-family:" Areal, Sans Serif";
+                color:aliceblue}
+                 
+        
